@@ -1,0 +1,6 @@
+c:\users\beibei_zhu\documents\visual studio 2013\Projects\SmallProject\SmallProject\bin\Debug\SmallProject.exe.config
+C:\Users\beibei_zhu\Documents\Visual Studio 2013\Projects\SmallProject\SmallProject\bin\Debug\SmallProject.exe
+C:\Users\beibei_zhu\Documents\Visual Studio 2013\Projects\SmallProject\SmallProject\bin\Debug\SmallProject.pdb
+C:\Users\beibei_zhu\Documents\Visual Studio 2013\Projects\SmallProject\SmallProject\obj\Debug\SmallProject.csprojResolveAssemblyReference.cache
+C:\Users\beibei_zhu\Documents\Visual Studio 2013\Projects\SmallProject\SmallProject\obj\Debug\SmallProject.exe
+C:\Users\beibei_zhu\Documents\Visual Studio 2013\Projects\SmallProject\SmallProject\obj\Debug\SmallProject.pdb
